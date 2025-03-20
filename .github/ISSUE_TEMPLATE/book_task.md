@@ -2,7 +2,7 @@
 name: Book_Task
 about: 教科書のタスク
 title: ''
-labels: book
+labels: book, task
 assignees: ochiaikouta
 
 ---
