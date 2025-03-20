@@ -2,8 +2,8 @@
 name: Book_Task
 about: 教科書のタスク
 title: ''
-labels: ''
-assignees: ''
+labels: book
+assignees: ochiaikouta
 
 ---
 

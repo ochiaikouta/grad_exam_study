@@ -2,7 +2,7 @@
 name: Excersise_Task
 about: 演習問題のタスク
 title: ''
-labels: ''
+labels: task
 assignees: ''
 
 ---
